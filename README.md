@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://rangadel.github.io/rsschool-cv/cv
