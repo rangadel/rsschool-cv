@@ -24,3 +24,9 @@ function multiply(a, b) {
 }
 ```
 
+### Education
+* freeCodeCamp (Responsive Web Design, JavaScript Algorithms and Data Structures)
+* The Rolling Scopes School - now  
+
+### Language skills:
+* English - intermediate
