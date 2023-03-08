@@ -4,7 +4,7 @@
 
 ### Contacts
 __Telegram:__@johndoe_22  
-__Discors:__ Termius#3962  
+__Discord:__ Termius#3962  
 __Github:__ [rangadel](https://github.com/rangadel)  
 __Codewars:__ [faramor](https://www.codewars.com/users/faramor)  
 
@@ -28,5 +28,5 @@ function multiply(a, b) {
 * freeCodeCamp (Responsive Web Design, JavaScript Algorithms and Data Structures)
 * The Rolling Scopes School - now  
 
-### Language skills:
+### Language skills
 * English - intermediate
